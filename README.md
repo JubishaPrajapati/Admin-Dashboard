@@ -71,5 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
 # Admin-Dashboard
-React dashboard using Material UI
+React dashboard using Material UI and firebase platform
 >>>>>>> 0eecb9cdcb811f3725d979448a2948c0c3b9fbdf
